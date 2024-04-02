@@ -10,9 +10,11 @@ p{
 nav a{
     font-size: 40px;border:10px solid yellow;
     text-decoration:none;background-color:yellow;
-    border-radius:5px;color:blue;margin:50px;
+    border-radius:5px;color:blue;
 }
-
+nav{
+    margin: 20px;text-align: center;
+}
 
 
 
